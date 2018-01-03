@@ -1,0 +1,4 @@
+-Itest/include
+-Iinclude
+-std=c++11
+
